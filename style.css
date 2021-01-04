@@ -16,7 +16,7 @@ body{
     width: 100%;
 }
 .background_img{
-    background-image: Url("Images/top-banner.png");
+    background-image: Url("top-banner.png");
     background-repeat: no-repeat;
 }
 section{
@@ -40,7 +40,7 @@ section{
     font-weight: bold;
 }
 .dream_area{
-    background-image: url(Images/exp-bg.png);
+    background-image: url(exp-bg.png);
     background-repeat: no-repeat;
 }
 .single_exoerucnce{
@@ -50,7 +50,7 @@ section{
     background: white;
 }
 .experiance_area{
-    background-image: url(Images/exp-bg.png);
+    background-image: url(exp-bg.png);
     background-repeat: no-repeat;
     background-position: left;
 }
